@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-04-28-n8n-첫-워크플로우-자동화](n8n/2026-04-28-n8n-첫-워크플로우-자동화.md)
+
 - [2026-04-28-n8n-첫-워크플로우-자동화-TIL-생성-및-GitHub-푸시](n8n/2026-04-28-n8n-첫-워크플로우-자동화-TIL-생성-및-GitHub-푸시.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
