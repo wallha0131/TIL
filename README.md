@@ -29,6 +29,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+
+- [2026-04-28-캐릭터-IP-사업-기획-및-운영-전략](ai-agent/2026-04-28-캐릭터-IP-사업-기획-및-운영-전략.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
