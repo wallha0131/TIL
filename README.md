@@ -19,6 +19,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
+
+- [2026-04-28-유니티-에셋스토어-사이트-안내](python/2026-04-28-유니티-에셋스토어-사이트-안내.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
